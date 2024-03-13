@@ -16,24 +16,19 @@ Mr. StoryTeller, okul öncesi çocukların ihtiyaçlarını karşılamak üzere 
 
 ### Gereksinimler
 
-[Kurulum için gereken herhangi bir önkoşul veya bağımlılığı listeleyin.]
-
 ### Kurulum
 
-[Mr. StoryTeller uygulamasını nasıl kurup ayarlayacaklarına dair adım adım talimatları sağlayın.]
+- **Streamlit**
+- **Gtts**
+- **Langchain**
+Bu kütüphanelerin hepside son sürüme kadar destekler. pip -i komutu yardımıyla hepsini kurabilirsiniz.
 
 ## Kullanım
 
-[Kullanıcıların, ebeveynlerin veya çocukların uygulama ile etkileşim kurabileceği kullanım örnekleri ve kılavuzları dahil edin.]
-
-## Katkıda Bulunma
-
-[Diğerlerinin Mr. StoryTeller'ın gelişimine veya iyileştirilmesine nasıl katkıda bulunabileceğini açıklayın.]
+Kullanıcı hikaye anlatıcısına birbirinden bağımsız 5 farklı kelime girerek (sınır 5) bundan bir hikaye oluşturmasını isteyecektir. Daha sonra hikayeyi istediği dile çevirip sesli bir
+şekilde kullanabilir.
 
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE.md](LICENSE.md) dosyasına bakın.
 
-## Teşekkürler
-
-[Projeye katkıda bulunan kişilere, kütüphanelere veya kaynaklara minnettarlık ifade edin.]
